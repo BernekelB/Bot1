@@ -1,0 +1,20 @@
+{
+    "ownerNumber": "6283180896284@s.whatsapp.net",
+    "ownerName": "Tomi H",
+    "botName": "TSD BOT",
+    "footer": "Tomi Heneldra",
+    "sessionName": "kayy-md",
+    "pathimg": "./media/logo.jpg",
+    "lolkey": "KaysaS",
+    "instagram": "https://instagram.com/tommyheneldra",
+    "gamewaktu": 90,
+    "limitCount": 20,
+    "gcount": {
+        "prem": 35,
+        "user": 15
+    },
+    "sticker": {
+        "packname": "TSD BOT",
+        "author": "Tomi Heneldra"
+    }
+}
